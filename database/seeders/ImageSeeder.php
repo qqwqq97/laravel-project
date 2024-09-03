@@ -45,7 +45,7 @@ class ImageSeeder extends Seeder
                 'filename' => 'sample6.jpg',
                 'title' => null,
             ]
-            ]);   
+        ]);   
 
     }
 }
