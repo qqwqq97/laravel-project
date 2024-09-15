@@ -144,6 +144,10 @@
   .micromodal-slide .modal__overlay {
     will-change: transform;
   }
+.swiper {
+    /* width: 600px; */
+    height: 300px;
+}
 /*
 ! tailwindcss v3.4.4 | MIT License | https://tailwindcss.com
 */
@@ -861,6 +865,9 @@ select{
 }
 .ml-4{
   margin-left: 1rem;
+}
+.ml-8{
+  margin-left: 2rem;
 }
 .ml-auto{
   margin-left: auto;
